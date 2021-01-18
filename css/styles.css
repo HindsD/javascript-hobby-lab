@@ -27,6 +27,10 @@ body > header, body > footer {
     margin: 20px;
 }
 
+.font {
+    font-style: italic;
+}
+
 main {
     padding: 20px;
     width: 60%;
